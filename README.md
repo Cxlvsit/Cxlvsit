@@ -13,7 +13,7 @@
 - Понимание Agile (Scrum, Kanban)  
 
 ## 📂 Проекты  
-- 📝 [Приложение для списков покупок](https://github.com/Cxlvsit/shopping-list-app)  
+- 📝 [Приложение для списков покупок](https://github.com/Cxlvsit/shopping-list-app)  (хакатон)
 - 📱  [Сервис Vocalremover](https://github.com/Cxlvsit/Vocalremover)  (пет-проект)  
 
 ## 📫 Контакты  
