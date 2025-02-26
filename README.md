@@ -18,4 +18,4 @@
 
 ## 📫 Контакты  
 - Gmail isblast7@gmail.com
-- Telegram @cxlvsit
+- Telegram [@cxlvsit](https://t.me/cxlvsit)
